@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option csharp_namespace = "Portfolio.Backend";
+
+package portfolio.v1;
+
+service PortfolioService {
+  rpc GetProjects (GetProjectsRequest) returns (GetProjectsResponse) {}
+}
+
+message GetProjectsRequest {}
+
+message GetProjectsResponse {
+  repeated Project projects = 1;
+}
+
+message Project {
+  string title = 1;
+  string description = 2;
+  string url = 3;
+}

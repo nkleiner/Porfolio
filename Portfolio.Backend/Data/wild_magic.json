@@ -1,0 +1,29 @@
+{
+  "tableName": "Extended Wild Magic Surge Table",
+  "diceType": "d100",
+  "effects": {
+    "1": "Regrow all missing hair. If you aren't missing any, your hair grows 1 foot longer instantly.",
+    "2": "For the next minute, you can only speak in rhyme and song.",
+    "3": "A confused, non-hostile Flumph appears in an unoccupied space within 60 feet of you and vanishes after 1 minute.",
+    "4": "You cast Fireball as a 3rd-level spell centered on yourself.",
+    "5": "Your skin turns a vibrant shade of blue. A Remove Curse spell ends this effect.",
+    "6": "An eye grows on your forehead for the next hour. You gain advantage on Wisdom (Perception) checks that rely on sight.",
+    "7": "For the next minute, you can teleport up to 20 feet as a bonus action on each of your turns.",
+    "8": "You transport to the Astral Plane until the end of your next turn, after which you return to the space you previously occupied.",
+    "9": "Maximize the damage of the next damaging spell you cast within the next minute.",
+    "10": "Your age changes by a factor of 1d10 years. Odd rolls make you younger, even rolls make you older.",
+    "11": "A flock of 1d6 harmless spectral chickens manifests around you for 10 minutes, clucking loudly.",
+    "12": "You gain the ability to breathe underwater for the next 24 hours.",
+    "13": "A single gold piece in your pocket transforms into a highly aggressive, normal-sized beetle.",
+    "14": "For the next hour, you emit a faint, beautiful glow of moonlight in a 15-foot radius.",
+    "15": "Your voice becomes incredibly deep and echoing for the next 24 hours.",
+    "16": "You accidentally cast Levitate on yourself, drifting 10 feet into the air for 1 minute.",
+    "17": "Illusionary butterflies float around you in a 5-foot radius for the next 10 minutes.",
+    "18": "You take 1d10 necrotic damage, and your hair turns completely snow-white.",
+    "19": "For the next minute, any object you touch that isn't being worn or carried ignites into harmless, green flames.",
+    "20": "You instantly regain your lowest-level expended spell slot.",
+    "50": "A massive, heavy iron anvil falls from the sky, crashing into an unoccupied space within 30 feet of you.",
+    "75": "All gold pieces you are carrying are temporarily turned into wooden buttons for 1 hour.",
+    "100": "You regain all expended spell slots, and a gentle chime echoes out to a distance of 300 feet."
+  }
+}

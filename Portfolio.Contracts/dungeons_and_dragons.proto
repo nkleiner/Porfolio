@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "Portfolio.Backend";
+
+package tavern.v1;
+
+import "google/protobuf/empty.proto";
+
+
+service DNDService {
+    rpc GetWildMagicRoll(google.protobuf.Empty) returns (WildMagicResponse);
+}
+
+message WildMagicResponse {
+    string wild_magic_effect = 1;
+    int32 roll = 2;
+}
